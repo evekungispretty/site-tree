@@ -10,6 +10,7 @@ export const SITE_TREE = [
       {u:'/kids/phonics', l:'SoR 拼讀小達人'},
       {u:'/kids/vocabulary', l:'SoR 單字小達人'},
       {u:'/kids/reading', l:'SoR 閱讀小達人'},
+      {u:'/kids/online', l:'線上課程'},
       {u:'/kids/online-info', l:'線上方案'},
       {u:'/kids/reading-assessment-center', l:'教材展示中心'},
       {u:'/locations', l:'旗艦殿', children:[
